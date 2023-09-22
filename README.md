@@ -2,16 +2,19 @@
 
 No culminar do Curso Explorer da RocketSeat, concluí o projeto final com sucesso. No âmbito deste desafio estimulante, trouxe à vida o "Food Explorer" – um menu interativo destinado a um restaurante fictício. Este notável projeto foi meticulosamente elaborado para garantir uma experiência de usuário otimizada em diversos dispositivos, abrangendo os formatos de layout para celular, tablet e desktop. É relevante ressaltar que o projeto faz uso de uma API personalizada, a qual está hospedada neste próprio repositório. Foi uma jornada incrível explorar e aplicar meus conhecimentos, culminando na criação de uma aplicação que alia design e funcionalidade de forma harmoniosa.
 
+## Disclaimer:
+Após a revisão do orientador, foram corrigidos alguns problemas no código, um deles estava relacionado ao usuário "admin", que não conseguia fazer o upload dos pratos. Além disso, além de resolver esses problemas, consegui implementar melhorias adicionais, tornando o sistema mais sofisticado.
+
 # Deploy online na rota:
 
 ```
-https://foodexplorer-api-uvlv.onrender.com/
+https://voluble-creponne-a9057b.netlify.app/
 ```
 
 Para iniciar o projeto, abra o terminal
 
 ```
-git clone https://github.com/veigaeduardo/FoodExplorer_BackEnd.git
+git clone https://github.com/veigaeduardo/FoodExplorer_BackEnd_New.git
 ```
 
 Instale os pacotes de dependências
@@ -42,9 +45,9 @@ http://localhost:3333/
 
 ### Deploy Front-end do Projeto
 
-<a href='https://classy-sunshine-a6d57c.netlify.app/' target='_blank'>https://classy-sunshine-a6d57c.netlify.app//</a>
+<a href='https://voluble-creponne-a9057b.netlify.app/' target='_blank'>https://voluble-creponne-a9057b.netlify.app/</a>
 
-<a href='https://github.com/veigaeduardo/FoodExplorer_FrontEnd' target='_blank'>Projeto no Github</a>
+<a href='https://github.com/veigaeduardo/FoodExplorer_FrontEnd_New' target='_blank'>Projeto no Github</a>
 
 ### Contato
 
