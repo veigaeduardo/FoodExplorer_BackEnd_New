@@ -8,7 +8,7 @@ Após a revisão do orientador, foram corrigidos alguns problemas no código, um
 # Deploy online na rota:
 
 ```
-https://voluble-creponne-a9057b.netlify.app/
+https://foodexplorerapinew.onrender.com
 ```
 
 Para iniciar o projeto, abra o terminal
